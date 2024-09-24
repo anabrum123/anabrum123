@@ -2,5 +2,5 @@
 
 ### Estudio ADE con DATA en UNAV
 
-### Formo pate del equipo de DataDrivers
+### Formo parte del equipo de DataDrivers
 
